@@ -1,0 +1,35 @@
+body{
+    background-color:#173D23;
+    color: white;
+}
+
+
+input{
+    position: relative;
+    margin-left: 40vw;
+    width: 15vw;
+}
+
+h4{
+    text-transform: uppercase;
+    text-align: center;
+    text-shadow: 2px 2px black;
+}
+
+button{
+    position: relative;
+    margin-left: 20vw;
+    font-weight: bold;
+
+}
+
+#rezultat-container{
+    position: relative;
+    width: 100%;
+    height: 20%;
+}
+
+p{
+   font-weight: bold;
+   text-shadow: 1px 1px black;
+}
